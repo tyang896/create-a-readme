@@ -24,7 +24,5 @@ node index.js
 2. User's will have a series of questions asked about their README.md file. Once all the questions have been answered, a README.md file will be generated in the `Program` folder.
 
 
-For an example, refer to the demonstration below or view a video demonstration [here](https://drive.google.com/file/d/1bmWUIlOCeVO5LpKS_c-3e0xa3dPWm2Dq/view)
+For an example of running the program, refer to the video demonstration [here](https://drive.google.com/file/d/1bmWUIlOCeVO5LpKS_c-3e0xa3dPWm2Dq/view)
 
-
-![alt text](./Program/assets/images/Untitled_%20Sep%206%2C%202022%208_18%20PM.gif)
